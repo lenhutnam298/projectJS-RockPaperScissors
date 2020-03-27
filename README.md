@@ -11,7 +11,48 @@
 [![Forks][forks-shield]][forks-url]
 [![MIT License][license-shield]][license-url]
 
-# projectJS-RockPaperScissors
+# Series Project JS: Rock Paper Scissors
+
+## Play online
+
+This project host online at [https://www.tichphansuyrong.lenhutnam.software/projectJS-RockPaperScissors/](https://www.tichphansuyrong.lenhutnam.software/projectJS-RockPaperScissors/)
+
+## How to run this project in local sever
+
+I usually use Node http-sevrer cause it is much faster than python simple server while requiring a little bit of setup.
+
+First of all, download and install node.js and then, open a terminal (linux) or command prompt (or Windows Powershell) if you are on windows (remember open these command as an administrator).
+
+In the command, type:
+
+```
+npm install -g http-server
+```
+
+Done!
+
+From then, cd to the folder you have dowloaded before, type:
+
+```
+http-server
+```
+
+Then point your browser at ```http://192.168.43.100:8080/```
+
+Click index.html, and testing ^^
+
+This way is very simply to run project in a local server. And some other way, I recommend you can search Google:
+
+- Using PHP built-in web server
+- Python SimpleHTTPServer
+- Web Server for Chrome extension
+- Brackets editor
+- Live Server Extension in Visual Studio code
+- ...
+
+Update
+
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
