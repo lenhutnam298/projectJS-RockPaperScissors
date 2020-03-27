@@ -15,14 +15,14 @@
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/lenhutnam298/projectJS-TicTacToe?style=flat-square
-[contributors-url]: https://github.com/lenhutnam298/projectJS-TicTacToe/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/lenhutnam298/projectJS-RockPaperScissors?style=flat-square
+[contributors-url]: https://github.com/lenhutnam298/projectJS-RockPaperScissors/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/lenhutnam298/projectJS-TicTacToe?style=flat-square
-[forks-url]: https://github.com/lenhutnam298/projectJS-TicTacToe/network/members
+[forks-shield]: https://img.shields.io/github/forks/lenhutnam298/projectJS-RockPaperScissors?style=flat-square
+[forks-url]: https://github.com/lenhutnam298/projectJS-RockPaperScissors/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/lenhutnam298/projectJS-TicTacToe?style=flat-square
-[stars-url]: https://github.com/lenhutnam298/projectJS-TicTacToe/stargazers
+[stars-shield]: https://img.shields.io/github/stars/lenhutnam298/projectJS-RockPaperScissors?style=flat-square
+[stars-url]: https://github.com/lenhutnam298/projectJS-RockPaperScissors/stargazers
 
-[license-shield]: https://img.shields.io/github/license/lenhutnam298/projectJS-TicTacToe?style=flat-square
-[license-url]: https://github.com/lenhutnam298/projectJS-TicTacToe/blob/master/LICENSE
+[license-shield]: https://img.shields.io/github/license/lenhutnam298/projectJS-RockPaperScissors?style=flat-square
+[license-url]: https://github.com/lenhutnam298/projectJS-RockPaperScissors/blob/master/LICENSE
